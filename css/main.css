@@ -1,0 +1,23 @@
+:root {
+  --primary-color: #FF6464;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
+
+.router-link-active {
+  color: var(--primary-color) !important;
+  border-bottom: 1px solid var(--primary-color);
+
+}

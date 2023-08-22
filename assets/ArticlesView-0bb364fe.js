@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as n,a as e}from"./index-72eefcd6.js";const o={},s=e("article",null,[e("h2",null,"test"),e("p",null,"note")],-1),l=[s];function r(a,_){return c(),n("section",null,l)}const u=t(o,[["render",r]]);export{u as default};
